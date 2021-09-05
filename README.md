@@ -1,6 +1,6 @@
 # x16 emulator all in one builder
 
-This repository provides a Makefile to build the [x16 emulator](https://github.com/commanderx16/x16-emulator/).
+This repository provides a Makefile to build the [x16 emulator](https://github.com/commanderx16/x16-emulator/) and everything else around it.
 
 The Makefile was based on the [official instructions](https://github.com/commanderx16/x16-emulator/wiki/x16-emulator-Getting-Started#building-from-scratch-on-macos).
 
