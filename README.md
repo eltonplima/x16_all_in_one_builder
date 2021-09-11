@@ -25,3 +25,11 @@ make
 ```bash
 make clean
 ```
+
+## Useful commands
+
+Reduce the cpu usage of the emulator with [cputhrottle](http://www.willnolan.com/cputhrottle/cputhrottle.html).
+
+```bash
+sudo ./cputhrottle $(ps A | grep x16emu | grep -v grep | awk '{print $1}') <MAX CPU USAGE %>
+```
